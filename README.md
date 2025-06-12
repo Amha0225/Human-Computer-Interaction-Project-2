@@ -1,7 +1,5 @@
 # Human-Computer-Interaction-Project-2
 
-WEATHER_API_KEY="bef5ae147e603578eae48403f62a9cd1"
-
 a. Introduction: 
 My web app is a event planner that allows users to input and see events, show a map of a location, and shows a forcast of the following days.
 
